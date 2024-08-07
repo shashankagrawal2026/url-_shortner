@@ -1,1 +1,1 @@
-Multi URL PASS Applicable
+URL PASS Applicable
